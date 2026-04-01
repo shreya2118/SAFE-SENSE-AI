@@ -1,0 +1,31 @@
+
+2026-03-30 17:45:10.717683 | I am going to office. | safe | 0.6061299060342413
+2026-03-30 17:45:21.700862 | Someone is behind me Help. | danger | 0.3730025524628646
+2026-03-30 17:45:47.734897 | I see a man holding a knife. | safe | 0.5546993092563864
+2026-03-30 17:46:00.488302 | Someone is following me with a knife. | danger | 0.37852347249145274
+2026-03-30 17:47:32.055977 | I feel like I am being chased right now. | danger | 0.4451009373923578
+2026-03-30 17:47:59.922096 | Please seems quite and, uh, isolated. | danger | 0.49032175075600537
+2026-03-30 17:48:43.725363 | I am walking in well lit area. | safe | 0.5674481090976298
+2026-03-30 17:54:59.002061 | I am going to office. | safe | 0.6260717008268204
+2026-03-30 17:55:07.628654 | Someone is behind me holding a knife. | danger | 0.37098981531774006
+2026-03-30 17:55:21.981292 | Someone is following me for the past 15 minutes. | danger | 0.3725065263869095
+2026-03-30 17:55:23.798074 | Someone is following me for the past 15 minutes. | danger | 0.3725065263869095
+2026-03-30 17:55:24.491278 | Someone is following me for the past 15 minutes. | danger | 0.3725065263869095
+2026-03-30 17:58:12.650406 | Someone is following me for the past 15 minutes. | danger | 0.3725065263869095
+2026-03-30 17:58:22.590460 | This is a very quiet and isolated place. | danger | 0.4551257263186712
+2026-03-30 17:58:39.378512 | Everyone is staring me and two men are walking behind me. | danger | 0.43782750112829383
+2026-03-30 17:59:08.084397 | I am going to library. | safe | 0.6282187584924027
+2026-03-30 18:05:02.283844 | I am going to office. | safe | 0.6260717008268204
+2026-03-30 18:06:22.887517 | Someone is following me? | danger | 0.3725065263869095
+2026-03-30 18:09:52.992696 | Someone is following me? | danger | 0.3725065263869095
+2026-03-30 18:10:01.182460 | I am going to office. | safe | 0.6260717008268204
+2026-03-30 20:10:08.890646 | area is very silent and isolated | danger | 0.4551257263186712
+2026-03-30 20:14:17.031641 | i am going to office | safe | 0.6260717008268204
+2026-03-30 20:14:34.333790 | there are many dogs on the road | safe | 0.5464408910882864
+2026-03-30 20:14:46.540744 | 5 people are following me with car | danger | 0.4262125454236614
+2026-03-30 20:26:00.233952 | someone is following me | danger | 0.3725065263869095
+2026-03-30 23:32:50.061871 | i am going to libarry | safe | 0.6089218740854344
+2026-04-01 18:00:18.658512 | someone is following me for the past 10 minutes | danger | 0.3725065263869095
+2026-04-01 18:01:01.255869 | help, someone is following me | danger | 0.3649511941227977
+2026-04-01 18:01:34.069759 | place seems quiet and isolated | safe | 0.5464408910882864
+2026-04-01 18:11:38.685131 | someone is following me help | danger | 0.3649511941227977
